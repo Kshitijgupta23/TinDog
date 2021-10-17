@@ -181,4 +181,7 @@ body {
     position: static;
     transform: rotate(0);
   }
+  .secondary-head{
+    font-size: 2.5rem;
+  }
 }
